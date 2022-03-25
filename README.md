@@ -2,4 +2,4 @@
 
 Dupla: Adriel Massagli e Débora Liberato
 
-2. Faça um programa que leia uma sequencia de numeros inteiros se o usuário digitar um numero negativo o programa deverá retornar a media dos numeros digitados sem o valor negativo.
+2. Faça um algoritmo que leia uma sequência de números inteiros. Se o usuário digitar um número negativo o algoritmo deverá retornar a média dos números digitados (sem o valor negativo).
